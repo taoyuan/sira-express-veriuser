@@ -1,6 +1,6 @@
 {
   "name": "sira-express-veriuser",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Sira express verify user middleware based on veritoken",
   "main": "index.js",
   "scripts": {
@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/taoyuan/sira-express-veriuser",
   "dependencies": {
-    "lodash.defaults": "^2.4.1",
+    "lodash.defaults": "^3.1.1",
     "veritoken": "0.0.2"
   }
 }
