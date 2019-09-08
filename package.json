@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/taoyuan/sira-express-veriuser",
   "dependencies": {
-    "lodash.defaults": "^3.1.1",
-    "veritoken": "0.0.2"
+    "lodash.defaults": "^4.2.0",
+    "veritoken": "0.0.3"
   }
 }
